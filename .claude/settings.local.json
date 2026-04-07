@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/Ramiro/Desktop/**)",
+      "Bash(npm install:*)"
+    ]
+  }
+}

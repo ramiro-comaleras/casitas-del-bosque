@@ -1,0 +1,434 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - link "Casitas del Bosque" [ref=e6] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e8]
+        - generic [ref=e11]: Casitas del Bosque
+      - navigation [ref=e12]:
+        - link "Apartamentos" [ref=e13] [cursor=pointer]:
+          - /url: "#apartments"
+        - link "Reservar" [ref=e14] [cursor=pointer]:
+          - /url: "#booking"
+        - link "Ubicación" [ref=e15] [cursor=pointer]:
+          - /url: "#location"
+        - link "Reseñas" [ref=e16] [cursor=pointer]:
+          - /url: "#reviews"
+      - link "Reservar Ahora" [ref=e18] [cursor=pointer]:
+        - /url: "#booking"
+    - generic [ref=e19]:
+      - generic [ref=e23]:
+        - paragraph [ref=e24]: Punta Uva · Costa Rica
+        - heading "Lujo Consciente en el Corazón de Punta Uva" [level=1] [ref=e25]
+        - paragraph [ref=e26]: Cuatro lofts privados inmersos en la selva del Caribe costarricense. A 350m de la playa. Selva, silencio y conexión total.
+        - generic [ref=e27]:
+          - link "Verificar Disponibilidad" [ref=e28] [cursor=pointer]:
+            - /url: "#booking"
+            - img [ref=e29]
+            - text: Verificar Disponibilidad
+          - link "Ver los Lofts" [ref=e31] [cursor=pointer]:
+            - /url: "#apartments"
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - img [ref=e34]
+            - img [ref=e36]
+            - img [ref=e38]
+            - img [ref=e40]
+            - img [ref=e42]
+          - generic [ref=e44]: 4.98 · 82 reseñas en Airbnb
+          - generic [ref=e45]: ·
+          - generic [ref=e46]: Superanfitrión
+      - generic [ref=e48]: Scroll
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - paragraph [ref=e53]: Nuestros Lofts
+        - heading "Cuatro Refugios en la Selva" [level=2] [ref=e54]
+        - paragraph [ref=e56]: Cada loft está diseñado para una inmersión total en la naturaleza, sin sacrificar el confort ni la conectividad.
+      - generic [ref=e57]:
+        - generic [ref=e58] [cursor=pointer]:
+          - generic [ref=e59]:
+            - img "Loft Tucán" [ref=e60]
+            - generic [ref=e62]:
+              - generic [ref=e63]: $185
+              - text: /noche
+          - generic [ref=e64]:
+            - heading "Loft Tucán" [level=3] [ref=e65]
+            - paragraph [ref=e66]: Espacioso loft con vista al dosel del bosque y hamaca privada en la selva.
+            - generic [ref=e67]:
+              - generic [ref=e68]:
+                - img [ref=e70]
+                - text: Cama ortopédica de alta gama
+              - generic [ref=e74]:
+                - img [ref=e76]
+                - text: Fibra óptica + UPS garantizado
+              - generic [ref=e81]:
+                - img [ref=e83]
+                - text: Terraza privada en la selva
+            - link "Ver Disponibilidad" [ref=e85]:
+              - /url: "#booking"
+              - img [ref=e86]
+              - text: Ver Disponibilidad
+        - generic [ref=e88] [cursor=pointer]:
+          - generic [ref=e89]:
+            - img "Loft Mono Congo" [ref=e90]
+            - generic [ref=e92]:
+              - generic [ref=e93]: $195
+              - text: /noche
+          - generic [ref=e94]:
+            - heading "Loft Mono Congo" [level=3] [ref=e95]
+            - paragraph [ref=e96]: El favorito de nómadas digitales, con espacio de trabajo y jardín privado.
+            - generic [ref=e97]:
+              - generic [ref=e98]:
+                - img [ref=e100]
+                - text: Cama ortopédica de alta gama
+              - generic [ref=e104]:
+                - img [ref=e106]
+                - text: Fibra óptica + UPS garantizado
+              - generic [ref=e111]:
+                - img [ref=e113]
+                - text: Terraza privada en la selva
+            - link "Ver Disponibilidad" [ref=e115]:
+              - /url: "#booking"
+              - img [ref=e116]
+              - text: Ver Disponibilidad
+        - generic [ref=e118] [cursor=pointer]:
+          - generic [ref=e119]:
+            - img "Loft Guacamaya" [ref=e120]
+            - generic [ref=e122]:
+              - generic [ref=e123]: $205
+              - text: /noche
+          - generic [ref=e124]:
+            - heading "Loft Guacamaya" [level=3] [ref=e125]
+            - paragraph [ref=e126]: El más luminoso, con ventanales de piso a techo y bañera al aire libre.
+            - generic [ref=e127]:
+              - generic [ref=e128]:
+                - img [ref=e130]
+                - text: Cama ortopédica de alta gama
+              - generic [ref=e134]:
+                - img [ref=e136]
+                - text: Fibra óptica + UPS garantizado
+              - generic [ref=e141]:
+                - img [ref=e143]
+                - text: Terraza privada en la selva
+            - link "Ver Disponibilidad" [ref=e145]:
+              - /url: "#booking"
+              - img [ref=e146]
+              - text: Ver Disponibilidad
+        - generic [ref=e148] [cursor=pointer]:
+          - generic [ref=e149]:
+            - img "Loft Jaguar" [ref=e150]
+            - generic [ref=e152]:
+              - generic [ref=e153]: $220
+              - text: /noche
+          - generic [ref=e154]:
+            - heading "Loft Jaguar" [level=3] [ref=e155]
+            - paragraph [ref=e156]: El refugio más íntimo, diseñado para parejas en busca de desconexión total.
+            - generic [ref=e157]:
+              - generic [ref=e158]:
+                - img [ref=e160]
+                - text: Cama ortopédica de alta gama
+              - generic [ref=e164]:
+                - img [ref=e166]
+                - text: Fibra óptica + UPS garantizado
+              - generic [ref=e171]:
+                - img [ref=e173]
+                - text: Terraza privada en la selva
+            - link "Ver Disponibilidad" [ref=e175]:
+              - /url: "#booking"
+              - img [ref=e176]
+              - text: Ver Disponibilidad
+      - paragraph [ref=e178]: Todos los lofts incluyen desayuno de bienvenida con frutas tropicales locales
+    - generic [ref=e180]:
+      - generic [ref=e181]:
+        - paragraph [ref=e182]: Reservaciones
+        - heading "Elige tus Fechas" [level=2] [ref=e183]
+      - generic [ref=e186]:
+        - generic [ref=e187]:
+          - generic [ref=e188]:
+            - generic [ref=e189]: Fechas de estadía
+            - button "Seleccionar Seleccionar" [ref=e190] [cursor=pointer]:
+              - img [ref=e191]
+              - generic [ref=e193]:
+                - generic [ref=e194]: Seleccionar
+                - img [ref=e195]
+                - generic [ref=e197]: Seleccionar
+          - generic [ref=e198]:
+            - generic [ref=e199]: Apartamento
+            - generic [ref=e200]:
+              - combobox [ref=e201] [cursor=pointer]:
+                - option "Cualquier apartamento" [selected]
+                - option "Loft Tucán — $185/noche"
+                - option "Loft Mono Congo — $195/noche"
+                - option "Loft Guacamaya — $205/noche"
+                - option "Loft Jaguar — $220/noche"
+              - generic:
+                - img
+          - generic [ref=e202]:
+            - generic [ref=e203]: Huéspedes
+            - generic [ref=e204]:
+              - button [ref=e205] [cursor=pointer]:
+                - img [ref=e206]
+              - generic [ref=e207]: "2"
+              - button [ref=e208] [cursor=pointer]:
+                - img [ref=e209]
+              - generic [ref=e210]: huéspedes
+        - generic [ref=e212]:
+          - heading "Resumen de Reserva" [level=3] [ref=e213]:
+            - img [ref=e214]
+            - text: Resumen de Reserva
+          - generic [ref=e217]:
+            - generic [ref=e218]:
+              - generic [ref=e219]: Apartamento
+              - generic [ref=e220]: Sin seleccionar
+            - generic [ref=e221]:
+              - generic [ref=e222]: Check-in
+              - generic [ref=e223]: —
+            - generic [ref=e224]:
+              - generic [ref=e225]: Check-out
+              - generic [ref=e226]: —
+            - generic [ref=e227]:
+              - generic [ref=e228]: Huéspedes
+              - generic [ref=e229]: "2"
+          - link "Verificar Disponibilidad" [ref=e230] [cursor=pointer]:
+            - /url: https://wa.me/50661525346?text=Hola!%20Me%20interesa%20reservar%20en%20Casitas%20del%20Bosque.%0AHu%C3%A9spedes%3A%202
+            - img [ref=e231]
+            - text: Verificar Disponibilidad
+      - generic [ref=e234]:
+        - generic [ref=e235]:
+          - generic [ref=e236]: 🔒
+          - generic [ref=e237]: Pago seguro vía Airbnb
+        - generic [ref=e238]:
+          - generic [ref=e239]: ✓
+          - generic [ref=e240]: Cancelación flexible
+        - generic [ref=e241]:
+          - generic [ref=e242]: ⭐
+          - generic [ref=e243]: Superanfitrión verificado
+    - generic [ref=e245]:
+      - generic [ref=e246]:
+        - paragraph [ref=e247]: Ubicación
+        - heading "En el corazón de Punta Uva" [level=2] [ref=e248]
+      - generic [ref=e250]:
+        - generic [ref=e251]:
+          - paragraph [ref=e252]: Casitas del Bosque se encuentra en Punta Uva, uno de los destinos más vírgenes del Caribe costarricense. Rodeados de selva tropical densa, ríos cristalinos y a pasos de la playa más hermosa del Caribe sur.
+          - generic [ref=e253]:
+            - generic [ref=e254]:
+              - generic [ref=e255]: 350m
+              - generic [ref=e256]:
+                - paragraph [ref=e257]: de Playa Punta Uva
+                - paragraph [ref=e258]: La playa más hermosa del Caribe sur
+            - generic [ref=e259]:
+              - generic [ref=e260]: 6km
+              - generic [ref=e261]:
+                - paragraph [ref=e262]: de Puerto Viejo
+                - paragraph [ref=e263]: Restaurantes, surf y vida nocturna
+            - generic [ref=e264]:
+              - generic [ref=e265]: 45min
+              - generic [ref=e266]:
+                - paragraph [ref=e267]: del Aeropuerto Limón
+                - paragraph [ref=e268]: Acceso fácil al paraíso
+          - generic [ref=e269]:
+            - generic [ref=e270]: Selva primaria
+            - generic [ref=e271]: Ríos cristalinos
+            - generic [ref=e272]: Observación de monos
+            - generic [ref=e273]: Tortugas marinas (temporada)
+            - generic [ref=e274]: Snorkel
+            - generic [ref=e275]: Ciclismo
+        - iframe [ref=e277]:
+          
+    - generic [ref=e279]:
+      - generic [ref=e280]:
+        - paragraph [ref=e281]: Reseñas
+        - heading "Lo que dicen nuestros Huéspedes" [level=2] [ref=e282]
+        - generic [ref=e283]:
+          - generic [ref=e284]:
+            - img [ref=e285]
+            - img [ref=e287]
+            - img [ref=e289]
+            - img [ref=e291]
+            - img [ref=e293]
+          - generic [ref=e295]: "4.98"
+          - generic [ref=e296]: · 82 reseñas en Airbnb
+        - generic [ref=e297]:
+          - img [ref=e298]
+          - generic [ref=e300]: Recomendación del Viajero · Uno de los Airbnb favoritos
+      - generic [ref=e302]:
+        - generic [ref=e303]:
+          - generic [ref=e304]:
+            - generic [ref=e306]: L
+            - generic [ref=e307]:
+              - paragraph [ref=e308]: Luis
+              - paragraph [ref=e309]: Curridabat, Costa Rica
+          - generic [ref=e310]:
+            - generic [ref=e311]:
+              - img [ref=e312]
+              - img [ref=e314]
+              - img [ref=e316]
+              - img [ref=e318]
+              - img [ref=e320]
+            - generic [ref=e322]: enero de 2026
+          - paragraph [ref=e323]: El lugar es espectacular, inmerso en el bosque y cerca de todo. Canzio y Barbara súper amables y pendientes a que todo esté excelente y muy amigables, volvería siempre. La cama ortopédica fue la mejor sorpresa, dormimos como nunca. El wifi funcionó perfecto durante toda la estadía.
+          - link "Ver en Airbnb" [ref=e324] [cursor=pointer]:
+            - /url: https://www.airbnb.es/rooms/844148194830889913
+            - img [ref=e325]
+            - text: Ver en Airbnb
+        - generic [ref=e327]:
+          - generic [ref=e328]:
+            - generic [ref=e330]: L
+            - generic [ref=e331]:
+              - paragraph [ref=e332]: Lucrecia
+              - paragraph [ref=e333]: Heredia, Costa Rica
+          - generic [ref=e334]:
+            - generic [ref=e335]:
+              - img [ref=e336]
+              - img [ref=e338]
+              - img [ref=e340]
+              - img [ref=e342]
+              - img [ref=e344]
+            - generic [ref=e346]: febrero de 2026
+          - paragraph [ref=e347]: Fue una hermosa experiencia, el lugar impecable, la atención excelente y los anfitriones de lujo. Volvería a repetir mi visita. La terraza privada vale cada centavo, por las noches escuchabas solo la selva y el mar a lo lejos.
+          - link "Ver en Airbnb" [ref=e348] [cursor=pointer]:
+            - /url: https://www.airbnb.es/rooms/844148194830889913
+            - img [ref=e349]
+            - text: Ver en Airbnb
+        - generic [ref=e351]:
+          - generic [ref=e352]:
+            - generic [ref=e354]: J
+            - generic [ref=e355]:
+              - paragraph [ref=e356]: Julia
+              - paragraph [ref=e357]: Lleva 7 años en Airbnb
+          - generic [ref=e358]:
+            - generic [ref=e359]:
+              - img [ref=e360]
+              - img [ref=e362]
+              - img [ref=e364]
+              - img [ref=e366]
+              - img [ref=e368]
+            - generic [ref=e370]: agosto de 2025
+          - paragraph [ref=e371]: Es el mejor alojamiento en el que hemos estado en Costa Rica. El lugar es idílico y en medio de la selva. Tanto Barbara como Cancio fueron un encanto. Estaban pendientes de nosotros y nos dieron excelentes recomendaciones de actividades y restaurantes.
+          - link "Ver en Airbnb" [ref=e372] [cursor=pointer]:
+            - /url: https://www.airbnb.es/rooms/844148194830889913
+            - img [ref=e373]
+            - text: Ver en Airbnb
+        - generic [ref=e375]:
+          - generic [ref=e376]:
+            - generic [ref=e378]: D
+            - generic [ref=e379]:
+              - paragraph [ref=e380]: Dolores
+              - paragraph [ref=e381]: Lleva 8 años en Airbnb
+          - generic [ref=e382]:
+            - generic [ref=e383]:
+              - img [ref=e384]
+              - img [ref=e386]
+              - img [ref=e388]
+              - img [ref=e390]
+              - img [ref=e392]
+            - generic [ref=e394]: abril de 2025
+          - paragraph [ref=e395]: El alojamiento de Canzio y Bárbara es ideal si tienes pensado ir al Caribe costarricense. La casa en medio de la selva cuenta con un balcón en el que todas las mañanas aparecen monitos. Privacidad total y decoración con maderas locales que le da una calidez increíble.
+          - link "Ver en Airbnb" [ref=e396] [cursor=pointer]:
+            - /url: https://www.airbnb.es/rooms/844148194830889913
+            - img [ref=e397]
+            - text: Ver en Airbnb
+        - generic [ref=e399]:
+          - generic [ref=e400]:
+            - generic [ref=e402]: V
+            - generic [ref=e403]:
+              - paragraph [ref=e404]: Valeria
+              - paragraph [ref=e405]: Lima, Perú
+          - generic [ref=e406]:
+            - generic [ref=e407]:
+              - img [ref=e408]
+              - img [ref=e410]
+              - img [ref=e412]
+              - img [ref=e414]
+              - img [ref=e416]
+            - generic [ref=e418]: Hace 1 semana
+          - paragraph [ref=e419]: Si te gusta la naturaleza es el lugar ideal para ti. Los ventanales espectaculares permiten ver amanecer entre las palmeras desde la cama. Una experiencia surrealista. Puerto Viejo está a solo unos minutos para cenar y explorar.
+          - link "Ver en Airbnb" [ref=e420] [cursor=pointer]:
+            - /url: https://www.airbnb.es/rooms/844148194830889913
+            - img [ref=e421]
+            - text: Ver en Airbnb
+        - generic [ref=e423]:
+          - generic [ref=e424]:
+            - generic [ref=e426]: D
+            - generic [ref=e427]:
+              - paragraph [ref=e428]: Danny
+              - paragraph [ref=e429]: Lleva 10 años en Airbnb
+          - generic [ref=e430]:
+            - generic [ref=e431]:
+              - img [ref=e432]
+              - img [ref=e434]
+              - img [ref=e436]
+              - img [ref=e438]
+              - img [ref=e440]
+            - generic [ref=e442]: Hace 2 semanas
+          - paragraph [ref=e443]: Nos sentimos muy bienvenidos y cómodos desde el principio. Los anfitriones nos recibieron calurosamente y nos explicaron muchas cosas sobre la fauna de Costa Rica. La filosofía del lugar, inmerso en la naturaleza con todas las comodidades, es simplemente perfecta.
+          - link "Ver en Airbnb" [ref=e444] [cursor=pointer]:
+            - /url: https://www.airbnb.es/rooms/844148194830889913
+            - img [ref=e445]
+            - text: Ver en Airbnb
+      - link "Ver todas las 82 reseñas en Airbnb" [ref=e448] [cursor=pointer]:
+        - /url: https://www.airbnb.es/rooms/844148194830889913
+        - text: Ver todas las 82 reseñas en Airbnb
+        - img [ref=e449]
+    - generic [ref=e452]:
+      - generic [ref=e453]:
+        - generic [ref=e454]:
+          - generic [ref=e455]:
+            - img [ref=e457]
+            - generic [ref=e460]: Casitas del Bosque
+          - paragraph [ref=e461]: Lujo consciente en el corazón del Caribe costarricense. Cuatro lofts privados inmersos en la selva de Punta Uva.
+          - generic [ref=e462]:
+            - link "WhatsApp" [ref=e463] [cursor=pointer]:
+              - /url: https://wa.me/50661525346
+              - img [ref=e464]
+            - link "Instagram" [ref=e467] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e468]
+            - link "Facebook" [ref=e471] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e472]
+        - generic [ref=e474]:
+          - heading "Navegación" [level=4] [ref=e475]
+          - list [ref=e476]:
+            - listitem [ref=e477]:
+              - link "Apartamentos" [ref=e478] [cursor=pointer]:
+                - /url: "#apartments"
+            - listitem [ref=e479]:
+              - link "Reservar" [ref=e480] [cursor=pointer]:
+                - /url: "#booking"
+            - listitem [ref=e481]:
+              - link "Ubicación" [ref=e482] [cursor=pointer]:
+                - /url: "#location"
+            - listitem [ref=e483]:
+              - link "Reseñas" [ref=e484] [cursor=pointer]:
+                - /url: "#reviews"
+            - listitem [ref=e485]:
+              - link "Ver en Airbnb" [ref=e486] [cursor=pointer]:
+                - /url: https://www.airbnb.es/rooms/844148194830889913
+                - text: Ver en Airbnb
+                - img [ref=e487]
+        - generic [ref=e491]:
+          - heading "Contacto" [level=4] [ref=e492]
+          - list [ref=e493]:
+            - listitem [ref=e494]:
+              - link "+506 6152 5346" [ref=e495] [cursor=pointer]:
+                - /url: https://wa.me/50661525346
+                - img [ref=e496]
+                - generic [ref=e499]: +506 6152 5346
+            - listitem [ref=e500]:
+              - img [ref=e501]
+              - generic [ref=e504]:
+                - text: Punta Uva, Puerto Viejo
+                - text: de Talamanca, Limón
+                - text: Costa Rica
+      - generic [ref=e505]:
+        - paragraph [ref=e506]: © 2025 Casitas del Bosque. Todos los derechos reservados.
+        - paragraph [ref=e507]: Punta Uva · Puerto Viejo de Talamanca · Limón · Costa Rica
+    - generic [ref=e508]:
+      - generic: Chateá con nosotros
+      - link "Contactar por WhatsApp" [ref=e509] [cursor=pointer]:
+        - /url: https://wa.me/50661525346?text=Hola!%20Me%20interesa%20reservar%20en%20Casitas%20del%20Bosque.%20%C2%BFPueden%20ayudarme%20con%20disponibilidad%3F
+        - img [ref=e511]
+  - button "Open Next.js Dev Tools" [ref=e519] [cursor=pointer]:
+    - img [ref=e520]
+  - alert [ref=e523]
