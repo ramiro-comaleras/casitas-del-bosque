@@ -6,8 +6,8 @@ export function HeroSection() {
     <section className="relative min-h-screen overflow-hidden">
       {/* Mobile: imagen de fondo */}
       <img
-        src="/casitas/imagen.jpg"
-        alt="Casitas del Bosque"
+        src="/casitas/playa-mobile.jpg"
+        alt="Playa Punta Uva, Costa Rica"
         className="md:hidden absolute inset-0 w-full h-full object-cover"
       />
 
