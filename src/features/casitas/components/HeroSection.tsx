@@ -4,25 +4,32 @@ import { motion } from 'framer-motion'
 export function HeroSection() {
   return (
     <section className="relative min-h-screen overflow-hidden">
-      {/* Video background */}
+      {/* Mobile: imagen de fondo */}
+      <img
+        src="/casitas/imagen.jpg"
+        alt="Casitas del Bosque"
+        className="md:hidden absolute inset-0 w-full h-full object-cover"
+      />
+
+      {/* Desktop: video de fondo */}
       <video
         autoPlay
         muted
         loop
         playsInline
-        className="absolute inset-0 w-full h-full object-cover"
+        className="hidden md:block absolute inset-0 w-full h-full object-cover"
         src="/casitas/video-hero.mp4"
       />
 
       {/* Multi-layer overlay: dark top for navbar, transparent middle, dark bottom for text */}
       <div className="absolute inset-0 bg-gradient-to-b from-[rgba(4,57,39,0.65)] via-[rgba(4,57,39,0.15)] to-[rgba(4,57,39,0.85)]" />
 
-      {/* Title — top left, fixed position */}
+      {/* Title — top center */}
       <motion.h1
-        initial={{ opacity: 0, x: -30 }}
-        animate={{ opacity: 1, x: 0 }}
+        initial={{ opacity: 0, y: -20 }}
+        animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.3, duration: 0.8 }}
-        className="absolute top-28 md:top-36 left-6 md:left-12 lg:left-20 font-display text-4xl md:text-6xl lg:text-7xl font-light text-white leading-[1.1]"
+        className="absolute top-28 md:top-36 left-0 right-0 text-center font-display text-2xl md:text-3xl font-light text-white leading-[1.1]"
       >
         Lujo <span className="casitas-text-gold italic">Consciente</span>
       </motion.h1>
